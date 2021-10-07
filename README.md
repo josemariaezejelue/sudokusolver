@@ -9,7 +9,10 @@ The objective of this project was to get familiar with Python as well as algorit
 
 I built a command line application that provides a solution to a given sudoku board.
 
-<img src="https://imgur.com/a/f3ZcJjs.gif" width="400px">
+
+## Screenrecord
+![](https://i.postimg.cc/7657zMxX/sudoku-record.gif)
+
 
 ## What I learned
 
